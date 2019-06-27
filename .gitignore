@@ -1,0 +1,7 @@
+.DS_Store
+xcschememanagement.plist
+*.xcbkptlist
+Breakpoints_v2.xcbkptlist
+UserInterfaceState.xcuserstate
+contents.xcworkspacedata
+IDEWorkspaceChecks.plist
